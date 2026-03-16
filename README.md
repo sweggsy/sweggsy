@@ -2,7 +2,7 @@
 Hi! Im sweggsy, im still learning all the thing about machine learning, deep learning, AI and trying to be better.
 
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ramzidhn) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198840592899)
 
 # Tech Stack:
