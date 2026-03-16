@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Im sweggsy, im still learning all the thing about AI and trying to be better.
+Hi! Im sweggsy, im still learning all the thing about machine learning, deep learning, AI and trying to be better.
 
 
 ## 🌐 Socials:
